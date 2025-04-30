@@ -37,7 +37,4 @@ Este é um aplicativo de diário pessoal desenvolvido em Python utilizando a bib
 
 > Um arquivo chamado `diario.txt` será criado automaticamente para armazenar suas anotações.
 
----
-
-## 🗂️ Estrutura do Projeto
 
